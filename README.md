@@ -10,4 +10,4 @@ The data file **summer-products-with-rating-and-performance.xlsx** contains the 
 
 # Final deliveries: 
 
-- The PDF file named **BI project** and the PowerBI file **BI project** are included as the final deliveries for this project. 
+The PDF file named **BI project** and the PowerBI file **BI project** are included as the final deliveries for this project. 
